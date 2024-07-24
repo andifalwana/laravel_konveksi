@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.image-gallery .card {
+    width: 300px;
+    height: 350px; 
+}
+
+
